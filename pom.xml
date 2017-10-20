@@ -35,9 +35,9 @@
     <description>Default simple SLF4J log configuration for Mock libraries.</description>
 
     <scm>
-        <connection>scm:svn:http://svn.apache.org/repos/asf/sling/trunk/testing/mocks/logging-mock</connection>
-        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/sling/trunk/testing/mocks/logging-mock</developerConnection>
-        <url>http://svn.apache.org/viewvc/sling/trunk/testing/mocks/logging-mock</url>
+        <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-testing-logging-mock.git</conncetion>
+        <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-testing-logging-mock.git</developerConnection>
+        <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-testing-logging-mock.git</url>
     </scm>
 
     <dependencies>
