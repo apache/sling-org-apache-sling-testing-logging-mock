@@ -23,7 +23,7 @@
     <parent>
         <groupId>org.apache.sling</groupId>
         <artifactId>sling</artifactId>
-        <version>60</version>
+        <version>62</version>
         <relativePath />
     </parent>
 
@@ -39,6 +39,10 @@
         <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-testing-logging-mock.git</developerConnection>
         <url>https://github.com/apache/sling-org-apache-sling-testing-logging-mock.git</url>
     </scm>
+
+    <properties>
+        <sling.java.version>11</sling.java.version>
+    </properties>
 
     <dependencies>
         <dependency>
